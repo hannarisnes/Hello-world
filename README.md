@@ -1,2 +1,2 @@
 # Hello-world
-Repository
+Hello, how do you do? I'm Hanna and new at GitHub!
